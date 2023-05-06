@@ -3,7 +3,7 @@ Please go under edit and edit this file as needed for your project
 
 # Project Name - Agarwood-OudCraft 
 # Batch - 03.1
-### Group Leader - 
+### Group Leader - IT21228094 Mendis A.R.P. (randinimendis)
 ### Member 2 - IT21239366 Niwantha W.P.I (InoshN)
 ### Member 3 - IT2122557 Jayasinghe J.A.J.M(Jayyy00)
 ### Member 4 - 
